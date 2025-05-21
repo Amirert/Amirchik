@@ -32,6 +32,5 @@ if __name__ == '__main__':
     app.add_handler(CommandHandler("signal", signal))
     app.run_polling()
 
-python-telegram-bot==20.0
 
 
